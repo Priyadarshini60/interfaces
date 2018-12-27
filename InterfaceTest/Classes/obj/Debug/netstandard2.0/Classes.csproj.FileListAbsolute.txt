@@ -1,0 +1,12 @@
+C:\Users\priyankas\source\repos\InterfaceTest\Classes\bin\Debug\netstandard2.0\Classes.deps.json
+C:\Users\priyankas\source\repos\InterfaceTest\Classes\bin\Debug\netstandard2.0\Classes.dll
+C:\Users\priyankas\source\repos\InterfaceTest\Classes\bin\Debug\netstandard2.0\Classes.pdb
+C:\Users\priyankas\source\repos\InterfaceTest\Classes\bin\Debug\netstandard2.0\Interfaces.dll
+C:\Users\priyankas\source\repos\InterfaceTest\Classes\bin\Debug\netstandard2.0\Interfaces.pdb
+C:\Users\priyankas\source\repos\InterfaceTest\Classes\obj\Debug\netstandard2.0\Classes.csprojAssemblyReference.cache
+C:\Users\priyankas\source\repos\InterfaceTest\Classes\obj\Debug\netstandard2.0\Classes.csproj.CoreCompileInputs.cache
+C:\Users\priyankas\source\repos\InterfaceTest\Classes\obj\Debug\netstandard2.0\Classes.AssemblyInfoInputs.cache
+C:\Users\priyankas\source\repos\InterfaceTest\Classes\obj\Debug\netstandard2.0\Classes.AssemblyInfo.cs
+C:\Users\priyankas\source\repos\InterfaceTest\Classes\obj\Debug\netstandard2.0\Classes.csproj.CopyComplete
+C:\Users\priyankas\source\repos\InterfaceTest\Classes\obj\Debug\netstandard2.0\Classes.dll
+C:\Users\priyankas\source\repos\InterfaceTest\Classes\obj\Debug\netstandard2.0\Classes.pdb
